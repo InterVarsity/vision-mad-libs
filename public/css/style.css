@@ -15,7 +15,6 @@ div.vision-statement {
   margin-top: 10%;
   text-align: center;
   width: 80%;
-  word-wrap: break-word;
 }
 
 div.vision-statement p {
@@ -30,6 +29,11 @@ div.notice {
 
 span.keyword {
   color: #EFB432;
+}
+
+span {
+  word-wrap: normal;
+  display: inline-block;
 }
 
 footer {
