@@ -17,5 +17,8 @@ If there's a digital space you'd love to see represented here, you can request a
 [open a pull request](https://github.com/InterVarsity/vision-mad-libs/edit/master/mad-libs.rb) with new phrases, or email
 them to andrew.fallows@intervarsity.org
 
-The format is simple. The statement flows like this: `[identity1] and [identity2] transformed, [context] renewed, 
-[world]-changers developed.` In the Ruby code, that looks like `["identity1", "identity2", "context", "world"]`.
+The format is simple. The statement flows like this: 
+    [identity1] and [identity2] transformed, [context] renewed, [world]-changers developed.
+    
+In the Ruby code, that looks like: 
+   ["identity1", "identity2", "context", "world"]
